@@ -1,0 +1,109 @@
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\VolVeRBuilder.exe.config
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\VolVeRBuilder.exe
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\VolVeRBuilder.pdb
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\FontAwesome.Sharp.dll
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\Google.Protobuf.dll
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\MySql.Data.dll
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\System.Buffers.dll
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\System.Memory.dll
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\ZstdNet.dll
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\Google.Protobuf.pdb
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\Google.Protobuf.xml
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\MySql.Data.xml
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\System.Buffers.xml
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\System.Memory.xml
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Form1.resources
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Builder.resources
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Build.Build.resources
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Build.Misc.resources
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Build.Wallets.resources
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Panel.resources
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.VGIU.resources
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Properties.Resources.resources
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.csproj.GenerateResource.cache
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.csproj.CoreCompileInputs.cache
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.exe
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.pdb
+C:\Users\IVANB\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.csproj.AssemblyReference.cache
+C:\Crypte\Final\VolVeRBuilder\bin\Release\VolVeRBuilder.exe.config
+C:\Crypte\Final\VolVeRBuilder\bin\Release\VolVeRBuilder.exe
+C:\Crypte\Final\VolVeRBuilder\bin\Release\VolVeRBuilder.pdb
+C:\Crypte\Final\VolVeRBuilder\bin\Release\BouncyCastle.Crypto.dll
+C:\Crypte\Final\VolVeRBuilder\bin\Release\FontAwesome.Sharp.dll
+C:\Crypte\Final\VolVeRBuilder\bin\Release\Google.Protobuf.dll
+C:\Crypte\Final\VolVeRBuilder\bin\Release\K4os.Compression.LZ4.dll
+C:\Crypte\Final\VolVeRBuilder\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Crypte\Final\VolVeRBuilder\bin\Release\K4os.Hash.xxHash.dll
+C:\Crypte\Final\VolVeRBuilder\bin\Release\MySql.Data.dll
+C:\Crypte\Final\VolVeRBuilder\bin\Release\System.Buffers.dll
+C:\Crypte\Final\VolVeRBuilder\bin\Release\System.Memory.dll
+C:\Crypte\Final\VolVeRBuilder\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Crypte\Final\VolVeRBuilder\bin\Release\Ubiety.Dns.Core.dll
+C:\Crypte\Final\VolVeRBuilder\bin\Release\ZstdNet.dll
+C:\Crypte\Final\VolVeRBuilder\bin\Release\Google.Protobuf.pdb
+C:\Crypte\Final\VolVeRBuilder\bin\Release\Google.Protobuf.xml
+C:\Crypte\Final\VolVeRBuilder\bin\Release\K4os.Compression.LZ4.xml
+C:\Crypte\Final\VolVeRBuilder\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Crypte\Final\VolVeRBuilder\bin\Release\K4os.Hash.xxHash.xml
+C:\Crypte\Final\VolVeRBuilder\bin\Release\MySql.Data.xml
+C:\Crypte\Final\VolVeRBuilder\bin\Release\System.Buffers.xml
+C:\Crypte\Final\VolVeRBuilder\bin\Release\System.Memory.xml
+C:\Crypte\Final\VolVeRBuilder\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.csproj.AssemblyReference.cache
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Form1.resources
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Builder.resources
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Build.Build.resources
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Build.Misc.resources
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Build.Wallets.resources
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Panel.resources
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.VGIU.resources
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Properties.Resources.resources
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.csproj.GenerateResource.cache
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.csproj.CoreCompileInputs.cache
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.csproj.CopyComplete
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.exe
+C:\Crypte\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.pdb
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\VolVeRBuilder.exe.config
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\VolVeRBuilder.exe
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\VolVeRBuilder.pdb
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\FontAwesome.Sharp.dll
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\System.Buffers.dll
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\System.Memory.dll
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\System.Numerics.Vectors.dll
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\System.Memory.xml
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\System.Numerics.Vectors.xml
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.csproj.AssemblyReference.cache
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Form1.resources
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.FormLogin.resources
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Builder.resources
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Build.Build.resources
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Build.Misc.resources
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Build.Wallets.resources
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.Panel.resources
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Forms.VGIU.resources
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.Properties.Resources.resources
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.csproj.GenerateResource.cache
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.csproj.CoreCompileInputs.cache
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.csproj.CopyComplete
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.exe
+C:\Users\VolVe\OneDrive\Рабочий стол\ДЛЯ ВИДЕО\Final\VolVeRBuilder\obj\Release\VolVeRBuilder.pdb
