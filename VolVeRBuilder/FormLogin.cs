@@ -9,8 +9,8 @@ namespace VolVeRBuilder
     {
         public static Laucher.api KeyAuthApp = new Laucher.api(
     name: "Miner",
-    ownerid: "MaFkdmX7Gm",
-    secret: "7ba0432fd68c54117a191f286161bf930b4426f5739f66966e4afeeabc3ced7a",
+    ownerid: "MadarwX7Gm",
+    secret: "7ba0432fd68c54117a191f2861639f66966e4afeeabc3ced7a",
     version: "1.0"
 );
 
