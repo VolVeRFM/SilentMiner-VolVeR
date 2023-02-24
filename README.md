@@ -19,7 +19,9 @@ You can find the web panel that the miner officially supports here: [VolVeRWebPa
 
 # The documentation
 The builder itself can cause a lot of errors, since it has a beta-test version.
+
 Please download all the dependencies and resources you need to work with the builder yourself
+
 Always check your target 4.8 environment.
 
 # Disclaimer
