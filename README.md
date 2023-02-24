@@ -3,6 +3,8 @@
 
 Free hidden miner capable of mining coins such as: ETH, ETC, XMR. Includes a clipper, using non-standard autoloading methods
 
+Builder has a dependency on KeyAuth.cs. Please create a key and copy the secret key: [keyauth](https://keyauth.cc/app/).Paste received data into FormLogin.cs
+
 # Advantages of the miner
 
 * NET Framework 4.8 C# Miner has selective injection into Windows processes 
